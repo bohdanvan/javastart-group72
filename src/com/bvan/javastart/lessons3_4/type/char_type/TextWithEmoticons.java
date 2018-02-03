@@ -1,7 +1,9 @@
+package com.bvan.javastart.lessons3_4.type.char_type;
+
 /**
  * @author bvanchuhov
  */
-public class StrangeTextExample {
+public class TextWithEmoticons {
 
     public static void main(String[] args) {
         String text = "Native [1]\tApple [2]\tAndroid [3]\tAndroid [3]\tSymbola [4]\tTwitter [5]\tUnicode\tBytes (UTF-8)\tDescription\n" +

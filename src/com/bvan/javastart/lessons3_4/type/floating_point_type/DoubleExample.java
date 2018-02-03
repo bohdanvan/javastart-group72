@@ -1,3 +1,5 @@
+package com.bvan.javastart.lessons3_4.type.floating_point_type;
+
 /**
  * @author bvanchuhov
  */

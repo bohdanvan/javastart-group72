@@ -1,3 +1,5 @@
+package com.bvan.javastart.lessons3_4.type.char_type;
+
 /**
  * @author bvanchuhov
  */
